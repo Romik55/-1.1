@@ -1,3 +1,2 @@
-print("Hello world!")
+print("Привіт Ігоре я роблю домашнє :)")
 
-print(1)
